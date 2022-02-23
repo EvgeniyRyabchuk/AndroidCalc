@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLesson01</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="message">message</string>
+</resources>

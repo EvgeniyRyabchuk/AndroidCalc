@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">АндроидУрок01</string>
+    <string name="first">первый</string>
+    <string name="second">второй</string>
+    <string name="third">третий</string>
+    <string name="message">сообщение</string>
+</resources>
